@@ -2,12 +2,7 @@
 
 * [RosePocket™](README.md)
 
-## Jurídico
+## Legal
 
-* [Políticas de Privacidade](juridico/politicas-de-privacidade.md)
-* [Termos de Uso](juridico/termos-de-uso.md)
-
-## Funcionalidades
-
-* [Criar uma Conta](funcionalidades/criar-uma-conta.md)
-* [Exclusão de Conta](funcionalidades/exclusao-de-conta.md)
+* [Privacy Policies](legal/privacy-policies.md)
+* [Terms of Use and Service](legal/terms-of-use-and-service.md)
